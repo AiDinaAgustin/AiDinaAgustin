@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/aidina-agustin/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://aidinaagustin.vercel.app/" target="_blank">
+<a href="https://aidinaagustina.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:aidinaagustin2@gmail.com">
