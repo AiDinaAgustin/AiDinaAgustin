@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ai Dina Agustin</h1>
+<h1 align="center">Hi, I'm Ai Dina Agustin</h1>
 <h3 align="center">Backend Developer | Fullstack Developer</h3>
 
 ---
